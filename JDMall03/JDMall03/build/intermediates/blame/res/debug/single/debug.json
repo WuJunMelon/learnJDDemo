@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_store_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/store_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_shopcar_bot_bar.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/shopcar_bot_bar.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar4.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar4.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_home_recharge.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/home_recharge.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_icon_user.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/icon_user.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_regist_cbx_selected.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/regist_cbx_selected.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_product_iv.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/product_iv.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_cus_goto_top_pre.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/cus_goto_top_pre.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_loading_dialog_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/loading_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_more_radio_normal.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/more_radio_normal.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_icon_p.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/icon_p.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_blue_btn_normal.9.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/blue_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_love_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/love_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_comment_title_txtcolor.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/comment_title_txtcolor.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_bot_bar_home_selected.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/bot_bar_home_selected.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_shopping_receiver_bg.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/shopping_receiver_bg.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-mdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_search_et_shap.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/search_et_shap.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_order_p_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/order_p_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_bot_textcolor.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/bot_textcolor.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_increase_count.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/increase_count.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_fragment_category.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/fragment_category.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar3.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar3.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_tongcheng_all_bg01.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/tongcheng_all_bg01.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_user_default.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/user_default.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_data_null.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/data_null.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_bot_bar_shopcar_selected.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/bot_bar_shopcar_selected.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_home_jdmarket.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/home_jdmarket.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_bespoke.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_bespoke.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_shopping_chs_selected.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/shopping_chs_selected.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_record.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_record.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_scroll_to_top_indic.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/scroll_to_top_indic.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_cussvc_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/cussvc_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_bot_bar_mime_selected.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/bot_bar_mime_selected.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar6.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar6.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar2.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar2.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_bot_bar_category.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/bot_bar_category.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_blue_btn_pressed.9.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/blue_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/anim_close_enter_anim.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/anim/close_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/anim_open_enter_anim.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/anim/open_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_choose_productlist_price_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/choose_productlist_price_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_msg_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/msg_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_home_ticket.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/home_ticket.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_choose_productlist_service_txtbg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/choose_productlist_service_txtbg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_shopping_chs_normal.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/shopping_chs_normal.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_iocn_yy.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/iocn_yy.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_fav_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/fav_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar5.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar5.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_top_category_item_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/top_category_item_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_mine_bot_bar.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/mine_bot_bar.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_scan.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/scan.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_home_shopcar.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/home_shopcar.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_wallet.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_wallet.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_white_star.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/white_star.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_regist_cbx_normal.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/regist_cbx_normal.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_choose_all_bg_selector.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/choose_all_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_pay_money_choose_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/pay_money_choose_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_bot_bar_home.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/bot_bar_home.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_choose_productlist_service.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/choose_productlist_service.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_alipay_pop_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/alipay_pop_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_fragment_myjd.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/fragment_myjd.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_discover_divider_layout.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/discover_divider_layout.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_btn_right_asc.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/btn_right_asc.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_home_bot_bar.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/home_bot_bar.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_shopcar_item_cbx_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/shopcar_item_cbx_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar10.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar10.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_home_logistics.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/home_logistics.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_time_left_shap.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/time_left_shap.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/anim_close_exit_anim.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/anim/close_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_bot_bar_shopcar.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/bot_bar_shopcar.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_regist_cbx_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/regist_cbx_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_number_input_et_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/number_input_et_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_home_category.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/home_category.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_ad_indicator_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/ad_indicator_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar8.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar8.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_bottom_bar.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/bottom_bar.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_bot_bar_category_selected.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/bot_bar_category_selected.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_shared_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/shared_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_alipay_btn_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/alipay_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_choose_price_bg_selector.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/choose_price_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_manager.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_manager.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_home_follow.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/home_follow.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar11.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar11.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-xxhdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_login_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/login_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_icon_shopcar.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/icon_shopcar.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_activity_regist.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/activity_regist.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_super_account_info_bg.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/super_account_info_bg.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_loading_src.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/loading_src.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_btn_right_desc.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/btn_right_desc.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_user_mgr.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/user_mgr.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-xhdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar9.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar9.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/anim_open_exit_anim.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/anim/open_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/layout_fragment_shopcar.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/layout/fragment_shopcar.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_customization_small_triangle_on.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/customization_small_triangle_on.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_bot_bar_mime.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/bot_bar_mime.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar12.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar12.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_category_bot_bar.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/category_bot_bar.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_xlistview_arrow.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/xlistview_arrow.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_order_item_btn_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/order_item_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_share_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/share_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_message.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/message.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_decrease_count.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/decrease_count.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_more_icon.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/more_icon.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_cus_goto_top_def.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/cus_goto_top_def.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_programset_item_arrow.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/programset_item_arrow.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_sec_kill.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/sec_kill.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_start_selected.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/start_selected.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_home_jd.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/home_jd.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_icon_search.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/icon_search.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_goback.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/goback.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_choose_product_indicator_tv_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/choose_product_indicator_tv_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_app.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_app.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_bg.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_bg.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_start_normal.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/start_normal.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable_pro_introl_icon_indic_bg.xml.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable/pro_introl_icon_indic_bg.xml"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_more_radio_selected.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/more_radio_selected.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_customization_small_triangle_off.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/customization_small_triangle_off.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_account.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_account.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_clock.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/clock.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar7.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar7.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_banner.jpg.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/banner.jpg"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_loading_progressbar1.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/loading_progressbar1.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_follow.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_follow.png"
+    },
+    {
+        "merged": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/res/merged/debug/drawable-hdpi_mine_order.png.flat",
+        "source": "/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/src/main/res/drawable-hdpi/mine_order.png"
+    }
+]

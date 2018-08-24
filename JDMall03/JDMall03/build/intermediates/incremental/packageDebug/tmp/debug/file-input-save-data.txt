@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 19 22:17:08 CST 2018
+0.baseType=DIRECTORY
+0.base=/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/transforms/dexMerger/debug/37
+0.path=classes.dex
+0.set=DEX
+count=1

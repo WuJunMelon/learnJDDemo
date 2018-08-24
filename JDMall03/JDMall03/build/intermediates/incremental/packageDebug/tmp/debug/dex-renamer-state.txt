@@ -1,0 +1,4 @@
+#Sun Aug 19 22:17:08 CST 2018
+base.0=/Users/wujun/Desktop/github/Android/JD_eclipse_to_AS/JDMall03/JDMall03/build/intermediates/transforms/dexMerger/debug/37
+path.0=classes.dex
+renamed.0=classes.dex
